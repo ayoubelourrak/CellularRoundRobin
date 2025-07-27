@@ -1,0 +1,1 @@
+opp_scavetool x -F CSV-R -o analysis/csv_results/scenario2_scalar.csv simulations/results/Scenario2*.sca
