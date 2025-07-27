@@ -1,0 +1,199 @@
+
+====================================================================================================
+CELLULARROUNDROBIN VALIDATION TEST - DETAILED ANALYSIS
+====================================================================================================
+
+--- RESPONSE TIME STATISTICS ---
+
+Arrival Rate: 20000.0 Hz
+  User 0:
+    Mean: 0.001787 s
+    99% CI: [0.001772, 0.001801]
+    Samples: 35
+
+Arrival Rate: 21000.0 Hz
+  User 0:
+    Mean: 0.002073 s
+    99% CI: [0.002052, 0.002094]
+    Samples: 35
+
+Arrival Rate: 22000.0 Hz
+  User 0:
+    Mean: 0.002501 s
+    99% CI: [0.002471, 0.002531]
+    Samples: 35
+
+Arrival Rate: 23000.0 Hz
+  User 0:
+    Mean: 0.003208 s
+    99% CI: [0.003153, 0.003263]
+    Samples: 35
+
+Arrival Rate: 24000.0 Hz
+  User 0:
+    Mean: 0.004583 s
+    99% CI: [0.004453, 0.004713]
+    Samples: 35
+
+Arrival Rate: 25000.0 Hz
+  User 0:
+    Mean: 0.008394 s
+    99% CI: [0.007953, 0.008834]
+    Samples: 35
+
+Arrival Rate: 26000.0 Hz
+  User 0:
+    Mean: 0.069595 s
+    99% CI: [0.053931, 0.085258]
+    Samples: 35
+
+Arrival Rate: 27000.0 Hz
+  User 0:
+    Mean: 1.108080 s
+    99% CI: [1.048259, 1.167901]
+    Samples: 35
+
+Arrival Rate: 28000.0 Hz
+  User 0:
+    Mean: 2.225295 s
+    99% CI: [2.167588, 2.283003]
+    Samples: 35
+
+Arrival Rate: 29000.0 Hz
+  User 0:
+    Mean: 3.268084 s
+    99% CI: [3.212000, 3.324167]
+    Samples: 35
+
+Arrival Rate: 30000.0 Hz
+  User 0:
+    Mean: 4.241979 s
+    99% CI: [4.187459, 4.296500]
+    Samples: 35
+
+--- USER THROUGHPUT STATISTICS ---
+
+Arrival Rate: 20000.0 Hz
+  User 0:
+    Mean: 6.079840 Mbps
+    99% CI: [6.076644, 6.083036]
+    Samples: 35
+
+Arrival Rate: 21000.0 Hz
+  User 0:
+    Mean: 6.383837 Mbps
+    99% CI: [6.380842, 6.386832]
+    Samples: 35
+
+Arrival Rate: 22000.0 Hz
+  User 0:
+    Mean: 6.688049 Mbps
+    99% CI: [6.685053, 6.691045]
+    Samples: 35
+
+Arrival Rate: 23000.0 Hz
+  User 0:
+    Mean: 6.991800 Mbps
+    99% CI: [6.988664, 6.994935]
+    Samples: 35
+
+Arrival Rate: 24000.0 Hz
+  User 0:
+    Mean: 7.295784 Mbps
+    99% CI: [7.292512, 7.299056]
+    Samples: 35
+
+Arrival Rate: 25000.0 Hz
+  User 0:
+    Mean: 7.599410 Mbps
+    99% CI: [7.596011, 7.602809]
+    Samples: 35
+
+Arrival Rate: 26000.0 Hz
+  User 0:
+    Mean: 7.899552 Mbps
+    99% CI: [7.894634, 7.904470]
+    Samples: 35
+
+Arrival Rate: 27000.0 Hz
+  User 0:
+    Mean: 7.932810 Mbps
+    99% CI: [7.921853, 7.943767]
+    Samples: 35
+
+Arrival Rate: 28000.0 Hz
+  User 0:
+    Mean: 7.932917 Mbps
+    99% CI: [7.922046, 7.943789]
+    Samples: 35
+
+Arrival Rate: 29000.0 Hz
+  User 0:
+    Mean: 7.932953 Mbps
+    99% CI: [7.922057, 7.943849]
+    Samples: 35
+
+Arrival Rate: 30000.0 Hz
+  User 0:
+    Mean: 7.933000 Mbps
+    99% CI: [7.922068, 7.943932]
+    Samples: 35
+
+--- SYSTEM THROUGHPUT STATISTICS ---
+
+Arrival Rate: 20000.0 Hz
+  Mean Throughput: 6.080 Mbps
+  99% CI: [6.077, 6.083] Mbps
+  Samples: 35
+
+Arrival Rate: 21000.0 Hz
+  Mean Throughput: 6.384 Mbps
+  99% CI: [6.381, 6.387] Mbps
+  Samples: 35
+
+Arrival Rate: 22000.0 Hz
+  Mean Throughput: 6.688 Mbps
+  99% CI: [6.685, 6.691] Mbps
+  Samples: 35
+
+Arrival Rate: 23000.0 Hz
+  Mean Throughput: 6.992 Mbps
+  99% CI: [6.989, 6.995] Mbps
+  Samples: 35
+
+Arrival Rate: 24000.0 Hz
+  Mean Throughput: 7.296 Mbps
+  99% CI: [7.293, 7.299] Mbps
+  Samples: 35
+
+Arrival Rate: 25000.0 Hz
+  Mean Throughput: 7.599 Mbps
+  99% CI: [7.596, 7.603] Mbps
+  Samples: 35
+
+Arrival Rate: 26000.0 Hz
+  Mean Throughput: 7.900 Mbps
+  99% CI: [7.895, 7.904] Mbps
+  Samples: 35
+
+Arrival Rate: 27000.0 Hz
+  Mean Throughput: 7.933 Mbps
+  99% CI: [7.922, 7.944] Mbps
+  Samples: 35
+
+Arrival Rate: 28000.0 Hz
+  Mean Throughput: 7.933 Mbps
+  99% CI: [7.922, 7.944] Mbps
+  Samples: 35
+
+Arrival Rate: 29000.0 Hz
+  Mean Throughput: 7.933 Mbps
+  99% CI: [7.922, 7.944] Mbps
+  Samples: 35
+
+Arrival Rate: 30000.0 Hz
+  Mean Throughput: 7.933 Mbps
+  99% CI: [7.922, 7.944] Mbps
+  Samples: 35
+
+====================================================================================================
